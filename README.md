@@ -1,2 +1,2 @@
 # Say-hello
-Projeto 1 do livro Exercises for Programmers.
+Um mini projeto desenvolvido para praticar manipulação de DOM, validação de entrada e separação de responsabilidades em JavaScript.
